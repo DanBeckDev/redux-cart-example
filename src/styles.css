@@ -1,0 +1,8 @@
+.App {
+  font-family: sans-serif;
+}
+.center {
+  margin: auto;
+  text-align: center;
+  justify-content: center;
+}
